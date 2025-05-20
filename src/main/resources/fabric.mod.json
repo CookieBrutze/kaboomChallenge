@@ -1,15 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "kaboomchallenge",
-	"version": "${version}",
+	"version": "0.1.0-wip",
 	"name": "kaboomChallenge",
 	"description": "A simple Fabric mod for Minecraft 1.21.5 that triggers a TNT-style explosion every 140 ticks (7 seconds) while a player is in Survival mode.",
 	"authors": [
-		"Flookie"
+		"CookieBrutze"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/CookieBrutze/kaboomChallenge"
 	},
 	"license": "MIT",
 	"icon": "assets/kaboomchallenge/icon.png",
